@@ -52,13 +52,11 @@ _Build real-world tools using menus and input validation._
 
 ## 🚀 How to Compile & Run
 
-Each lab is self-contained and can be compiled independently using a C++ compiler:
+Each lab is self-contained and can be compiled independently using a C++ compiler
 
-```bash
 g++ main.cpp -o lab_output
 ./lab_output
 💡 Tip: Navigate to the desired lab folder and uncomment the specific code blocks in main.cpp before compiling.
-
 
 ## 📌 Learning Outcomes
 
@@ -88,3 +86,4 @@ g++ main.cpp -o lab_output
 
 
 > ⭐ If you found this helpful or inspiring, feel free to star the repository!
+

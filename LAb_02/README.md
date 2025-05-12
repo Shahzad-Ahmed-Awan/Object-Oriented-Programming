@@ -13,7 +13,7 @@ This project is a continuation of exploring Object-Oriented Programming in C++. 
 
 - [Project Structure](#-Project-Structure)
 - [How to Compile & Run](#-How-to-Compile-and-Run)
-- [Highlights](#-Concepts-Covered)
+- [Concepts Covered](#-Concepts-Covered)
 - [Author](#-Author)
 
 ---
@@ -25,7 +25,7 @@ This project is a continuation of exploring Object-Oriented Programming in C++. 
 ├── main.cpp          # Menu-driven driver program
 ├── Employee.h        # Simple class with default constructor
 ├── BankAccount.h     # Validated constructor and account display
-├── MRectangle.h       # Demonstrates constructor overloading
+├── MyRectangle.h       # Demonstrates constructor overloading
 ├── Locker.h          # Demonstrates memory management and destructors
 ```
 

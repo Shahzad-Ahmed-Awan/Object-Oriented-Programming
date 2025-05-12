@@ -12,7 +12,6 @@ This collection reflects my hands-on practice, conceptual understanding, and gro
 - [How to Compile & Run](#-how-to-compile--run)
 - [Learning Outcomes](#-learning-outcomes)
 - [About Me](#-about-me)
-- [License](#-license)
 
 ---
 
@@ -80,7 +79,7 @@ g++ main.cpp -o lab_output
 
 - I believe in learning by doing — every line of code I write is a step toward becoming a better developer.
 
-📌 Check out more of my work: 🔗 [GitHub Profile](https://github.com/ItsShahzadAwan)
+📌 Check out more of my work: 🔗 [GitHub Profile](https://github.com/Shahzad-Ahmed-Awan)
 
 
 > ⭐ If you found this helpful or inspiring, feel free to star the repository!

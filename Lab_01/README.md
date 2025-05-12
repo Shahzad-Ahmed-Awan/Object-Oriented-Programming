@@ -9,7 +9,7 @@ This C++ project consists of multiple independent classes, each simulating a bas
 ## 📚 Table of Contents
 
 - [Project Structure](#-Project-Structure)
-- [How to Compile & Run](#-how-to-compile--run)
+- [How to Compile & Run](#-How-to-Compile-and-Run)
 - [Highlights](#-Highlights)
 - [Author](#-Author)
 
@@ -62,7 +62,7 @@ This C++ project consists of multiple independent classes, each simulating a bas
 
 ## 🧑‍💻 Author
 
-**Curated By** – [Shahzad Ahmed Awan] https://github.com/Shahzad-Ahmed-Awan
+**Curated By** – [Shahzad Ahmed Awan](https://github.com/Shahzad-Ahmed-Awan)
 
 ---
 

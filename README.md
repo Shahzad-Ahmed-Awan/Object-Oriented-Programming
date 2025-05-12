@@ -74,15 +74,15 @@ g++ main.cpp -o lab_output
 
 ## 🧑‍💻 About Me
 
---I'm Shahzad Ahmed Awan, a passionate Software Engineering student in my 2nd semester, focused on mastering C++ and core Object-Oriented Programming concepts.
+- I'm Shahzad Ahmed Awan, a passionate Software Engineering student in my 2nd semester, focused on mastering C++ and core Object-Oriented Programming concepts.
 
---I enjoy building practical, menu-driven applications that reflect real-world problems, emphasizing clean, efficient, and maintainable code.
+- I enjoy building practical, menu-driven applications that reflect real-world problems, emphasizing clean, efficient, and maintainable code.
 
---My goal is to lay a strong programming foundation by combining academic knowledge with hands-on development experience.
+- My goal is to lay a strong programming foundation by combining academic knowledge with hands-on development experience.
 
---I believe in learning by doing — every line of code I write is a step toward becoming a better developer.
+- I believe in learning by doing — every line of code I write is a step toward becoming a better developer.
 
-📌 Check out more of my work: 🔗 GitHub Profile](https://github.com/Shahzad-Ahmed-Awan)
+📌 Check out more of my work: 🔗 [GitHub Profile](https://github.com/Shahzad-Ahmed-Awan)
 
 
 > ⭐ If you found this helpful or inspiring, feel free to star the repository!
